@@ -64,6 +64,28 @@ Base: clientes mineros e industriales con calderas de agua caliente. Las líneas
 | 5. Integración y control | Capacitación Autoflame | Diseño y montaje de tableros | Tableros OEM Autoflame; integración a SCADA; instrumentación |
 | 6. Mediciones y medio ambiente | Apoyo a mediciones ambientales; mantención EGAS en Ventanas | Mantención EGAS en MEL | Mantención de CEMS; diagnóstico Durag y Enotec |
 
+### Segundo eje: combustible y normativa
+
+Además de la línea de negocio, cada caldera se clasifica por combustible, porque el combustible define sus trámites y, con ellos, los servicios que podemos ofrecer. La norma principal es el DS 10/2012 del MINSAL.
+
+| Combustible | Trámite SEC | Declaración eléctrica TE1 | Emisiones SMA | Infraestructura |
+| --- | --- | --- | --- | --- |
+| Líquida (diésel) | TC4 + TC8: estanque y redes (DS 160/2008) | Sí: quemador, bombas y controles | DS 29/2013 MMA: límites MP, SO2 y NOx; reporte obligatorio | Estanque con cubeto de contención de fugas |
+| Gas (GLP o red) | TC7 + TC8: red interior | Sí: quemador, bombas y controles | DS 29/2013 MMA: menor MP; reporte obligatorio | Estanque GLP a distancias mínimas, si aplica |
+| Dual | TC4 + TC7 + TC8 | Sí: quemador, bombas y controles | DS 29/2013: límites por combustible usado | Doble estanque, diésel y GLP |
+| Eléctrica | No aplica, sin combustión | Sí: único trámite del sistema | No aplica | Sin infraestructura de contención |
+
+Toda caldera, sea cual sea su combustible, debe cumplir seis exigencias comunes. Cada una es un servicio que podemos ofrecer a la base instalada:
+
+1. **Registro y revisiones:** SEREMI de Salud, art. 76 del DS 10 e informe sanitario; pruebas trienales autorizadas.
+2. **Operador autorizado:** certificado de competencia vigente, en la categoría que corresponde a la presión (baja, mediana o alta).
+3. **Libros y trazabilidad:** libro de vida foliado, libro de operación al día cada 4 horas y tratamiento de agua obligatorio (arts. 76 y 82).
+4. **Accesorios críticos:** válvula de seguridad probada, manómetro calibrado, visor de nivel con alarmas automáticas, purga rápida y placa del fabricante.
+5. **Sala de calderas:** muros incombustibles, ventilación libre, accesos despejados, extintores y señalética (DS 10 y DS 594).
+6. **Otros marcos legales:** Código Sanitario, Dirección del Trabajo (Ley 16.744 y mutual) y permisos municipales (OGUC y DOM).
+
+Quedan fuera del DS 10: locomotoras y embarcaciones, calefacción domiciliaria unifamiliar y equipos de menos de 0,5 kg/cm². Propuesta: sumar el cumplimiento normativo como servicio de la línea 6. Fuente: lámina técnica regulatoria de julio de 2026, documento de referencia no vinculante.
+
 ## Nuevas unidades de negocio 2027–2030
 
 Las seis unidades se apoyan en equipos que ya existen en las faenas que atendemos: calderas de agua caliente de mediana y gran potencia. No partimos de cero; ampliamos lo que el cliente ya nos compra.
